@@ -8,3 +8,7 @@ Of course, you can use the AS5048A decoder itself by connecting it via PWM to on
 
 sample video: 
 ![AS5048AEncoderDemo1](https://user-images.githubusercontent.com/35704910/170585031-f8715b1c-56d1-4b52-828e-1114f20b7a2e.gif)
+
+run:
+>make
+>./gimbals
