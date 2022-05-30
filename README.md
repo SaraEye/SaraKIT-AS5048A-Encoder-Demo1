@@ -11,4 +11,5 @@ sample video:
 
 run:
 >make
+
 >./gimbals
